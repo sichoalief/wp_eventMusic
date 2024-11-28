@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'super-brain';
+					src: url('https://sichoalief.github.io/wp_eventMusic/wp-content/uploads/useanyfont/2693super-brain.woff2') format('woff2'),
+						url('https://sichoalief.github.io/wp_eventMusic/wp-content/uploads/useanyfont/2693super-brain.woff') format('woff');
+					font-weight: 100; font-style: normal; font-display: auto;
+				}
+
+				.super-brain{font-family: 'super-brain' !important;}
+
+		
